@@ -56,7 +56,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 17
+                "lightness": 100
             }]
         }, {
             "featureType": "landscape",
@@ -64,7 +64,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 20
+                "lightness": 90
             }]
         }, {
             "featureType": "road.highway",
@@ -72,7 +72,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 17
+                "lightness": 83
             }]
         }, {
             "featureType": "road.highway",
@@ -80,7 +80,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 29
+                "lightness": 71
             }, {
                 "weight": 0.2
             }]
@@ -90,7 +90,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 18
+                "lightness": 82
             }]
         }, {
             "featureType": "road.local",
@@ -98,7 +98,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 16
+                "lightness": 84
             }]
         }, {
             "featureType": "poi",
@@ -106,7 +106,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 21
+                "lightness": 79
             }]
         }, {
             "elementType": "labels.text.stroke",
@@ -115,7 +115,7 @@ function init() {
             }, {
                 "color": "#000000"
             }, {
-                "lightness": 16
+                "lightness": 84
             }]
         }, {
             "elementType": "labels.text.fill",
@@ -137,7 +137,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 19
+                "lightness": 81
             }]
         }, {
             "featureType": "administrative",
@@ -145,7 +145,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 20
+                "lightness": 80
             }]
         }, {
             "featureType": "administrative",
@@ -153,7 +153,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 17
+                "lightness": 83
             }, {
                 "weight": 1.2
             }]

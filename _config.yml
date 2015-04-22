@@ -8,6 +8,7 @@ description: "RubyCamp Belgium 2015"
 color:
   primary-dark: '#000000'
   links: '#219ab3'
+  primary-bright: '#fff'
 
 # Footer settings
 footer: Ruby Belgium
