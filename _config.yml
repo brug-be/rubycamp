@@ -17,7 +17,7 @@ social:
   - title: twitter
     url: https://twitter.com/brug_be
   - title: github
-    url: https://github.com/brug-be/rubycamp2015
+    url: https://github.com/brug-be/rubycamp
 
 # Build settings
 markdown: kramdown
