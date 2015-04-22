@@ -1,0 +1,24 @@
+# Site settings
+title: RubyCamp BE 2015
+email: rubycamp@brug.be
+url: https://rubycamp.brug.be
+description: "RubyCamp Belgium 2015"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Ruby Belgium
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/brug_be
+  - title: github
+    url: https://github.com/brug-be/rubycamp2015
+
+# Build settings
+markdown: kramdown
+permalink: pretty
