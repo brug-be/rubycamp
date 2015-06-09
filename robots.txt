@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://rubycamp.brug.be/sitemap.xml

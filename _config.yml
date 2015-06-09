@@ -3,6 +3,8 @@ title: RubyCamp BE 2015
 email: rubycamp@brug.be
 url: https://rubycamp.brug.be
 description: "RubyCamp Belgium 2015"
+gems:
+  - jekyll-sitemap
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
