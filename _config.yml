@@ -1,8 +1,8 @@
 # Site settings
-title: RubyCamp BE 2015
-email: rubycamp@brug.be
+title: RubyCamp BE 2016
+email: rubycamp@rubybelgium.be
 url: https://rubycamp.brug.be
-description: "RubyCamp Belgium 2015"
+description: "RubyCamp Belgium 2016"
 gems:
   - jekyll-sitemap
 
