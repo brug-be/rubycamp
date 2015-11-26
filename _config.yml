@@ -1,7 +1,7 @@
 # Site settings
 title: RubyCamp BE 2016
 email: rubycamp@rubybelgium.be
-url: https://rubycamp.brug.be
+url: https://rubycamp.rubybelgium.be
 description: "RubyCamp Belgium 2016"
 gems:
   - jekyll-sitemap
