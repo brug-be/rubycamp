@@ -13,7 +13,9 @@ color:
   primary-bright: '#fff'
 
 # Footer settings
-footer: Ruby Belgium
+footer:
+  text: Ruby Belgium
+  link: http://rubybelgium.be
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
